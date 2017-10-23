@@ -1,9 +1,13 @@
 ## LinuxKit
 
+Slides: https://www.slideshare.net/Docker/linuxkit-deep-dive
+
+## Notes
+
 - Moby - toolkit for building system images, on top of containerd
 - Kubernetes and Microsoft support
 
-- Platform support - aws, azure, vmware
+- Platform support - aws, azure, vmware and others
 - Multi arch
 - Flexible networking and wireguard
 - Namespace sharing
