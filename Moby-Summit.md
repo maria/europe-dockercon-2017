@@ -7,6 +7,7 @@
   - Import in terraform to add resources not created by terraform
 
 ### LinuxKit
+  - build OS for containers
   - all is a container
   - Based on containerd
   - Support for azure,vmware, aws
